@@ -1,0 +1,83 @@
+{
+    "create": {
+      "title": "Guerra Mundial Z",
+      "overview": "Um ex-investigador da ONU é chamado de volta ao serviço para ajudar a impedir a propagação de uma pandemia que transforma seres humanos em zumbis. Ele embarca em uma corrida contra o tempo para encontrar a origem da infecção e uma possível cura.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "featured": false,
+      "cover": "/images/world_war_z.png"
+    },
+    "resident_evil": {
+      "title": "Resident Evil",
+      "overview": "Uma equipe de comandos é enviada para conter um surto viral dentro de um laboratório subterrâneo da Umbrella Corporation, que transforma os funcionários em zumbis.",
+      "company": "Sony Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "/images/resident_evil.png"
+    },
+    "exterminio": {
+      "title": "Extermínio",
+      "overview": "Quatro semanas após um misterioso vírus se espalhar pela Grã-Bretanha, um punhado de sobreviventes tenta encontrar um refúgio seguro.",
+      "company": "Fox Searchlight Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "/images/28_days_later.png"
+    },
+    "madrugada_dos_mortos": {
+      "title": "Madrugada dos Mortos",
+      "overview": "Um grupo de sobreviventes se refugia em um shopping center enquanto o mundo é devastado por uma epidemia de zumbis.",
+      "company": "Universal Pictures",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "/images/dawn_of_the_dead.png"
+    },
+    "zumbilandia": {
+      "title": "Zumbilândia",
+      "overview": "Um nerd, um caipira armado e duas irmãs se unem para sobreviver em um mundo pós-apocalíptico repleto de zumbis.",
+      "company": "Columbia Pictures",
+      "release_year": 2009,
+      "featured": false,
+      "cover": "/images/zombieland.png"
+    },
+    "eu_sou_a_lenda": {
+      "title": "Eu Sou a Lenda",
+      "overview": "Um cientista é o único sobrevivente humano em Nova York após um vírus devastador transformar a maioria da humanidade em criaturas noturnas.",
+      "company": "Warner Bros.",
+      "release_year": 2007,
+      "featured": false,
+      "cover": "/images/i_am_legend.png"
+    },
+    "a_noite_dos_mortos_vivos": {
+      "title": "A Noite dos Mortos-Vivos",
+      "overview": "Um grupo de pessoas se refugia em uma fazenda isolada para escapar de hordas de zumbis que assolam a área.",
+      "company": "Continental Distributing",
+      "release_year": 1968,
+      "featured": false,
+      "cover": "/images/night_of_the_living_dead.png"
+    },
+    "rec": {
+      "title": "REC",
+      "overview": "Um repórter de TV e seu cameraman ficam presos dentro de um edifício enquanto cobrem uma emergência, descobrindo que há algo horrível acontecendo lá dentro.",
+      "company": "Filmax",
+      "release_year": 2007,
+      "featured": false,
+      "cover": "/images/rec.png"
+    },
+    "invasao_zumbi": {
+      "title": "Invasão Zumbi",
+      "overview": "Enquanto um surto de zumbis assola a Coreia do Sul, os passageiros de um trem lutam para sobreviver.",
+      "company": "Next Entertainment World",
+      "release_year": 2016,
+      "featured": false,
+      "cover": "/images/train_to_busan.png"
+    },
+    "o_hospedeiro": {
+      "title": "O Hospedeiro",
+      "overview": "Quando um monstro gigante sequestra a filha de um homem, ele deve enfrentar a criatura para resgatá-la.",
+      "company": "Magnolia Pictures",
+      "release_year": 2006,
+      "featured": false,
+      "cover": "/images/the_host.png"
+    }
+  }
+  
